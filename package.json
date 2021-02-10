@@ -1,0 +1,24 @@
+{
+  "name": "eslint-learn",
+  "version": "1.0.0",
+  "description": "eslint 学习",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/main.js",
+    "lint --fix": "eslint src/main.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBmm/eslint-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBmm/eslint-learn/issues"
+  },
+  "homepage": "https://github.com/FBmm/eslint-learn#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
